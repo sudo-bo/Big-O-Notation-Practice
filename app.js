@@ -62,3 +62,44 @@ part2:
 
 
 */
+
+// Big-O Notation Practice
+/*
+Step One:
+-O(n)
+-O(n)
+-O(1)
+-O(n^3)**
+-O(n)
+-O(n)
+-O(n*log(n))
+-O(2^n)
+-O(1)
+-O(n^2)**
+
+Step Two:
+-O(n)
+-O(n)
+-O(1)
+-O(n)
+-O(n^2)
+-O(n)
+
+Step Three:
+-True
+-True**
+-False
+-O(n)
+-O(n)
+-O(n)
+-O(n*log(n))
+-O(n) -> interesting
+-O(1)
+-O(n)
+-O(1)
+-O(n)
+
+Bonus:
+-O(n)
+
+*/
